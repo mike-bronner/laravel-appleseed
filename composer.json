@@ -1,5 +1,5 @@
 {
-  "name": "genealabs/laravel-appleseed",
+  "name": "mike-bronner/laravel-appleseed",
   "description": "Prevent the pesky missing-favicon error log entries, and return 404 if they don't exist.",
   "license": "MIT",
   "authors": [
